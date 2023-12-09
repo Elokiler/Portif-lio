@@ -72,7 +72,7 @@ ol{color: white;}
 .l{color: red;}
 .Dudu{color: yellow;}
 
-.contato{color: white;}
+
 
 .loiro{color: yellow;}
 
@@ -136,10 +136,11 @@ ol{color: white;}
 #maneira{display: flex;
         font-size: 40px;
         justify-content: center;
-        margin: 0 100px 0 100px;
-        background-color: black;
-        color: white;
-        border: white solid 5px;    
+        margin: 0 200px 0 200px;
+        background-color: #455559;
+        color: rgb(246, 240, 178);
+        border: white solid 5px;
+        border-radius: 10px;    
 }
 
 .cursos{display: flex;
