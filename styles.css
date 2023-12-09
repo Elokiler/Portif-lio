@@ -1,0 +1,174 @@
+body{background-color: #92bad6;
+    
+    }
+
+.Biografia{ display: inline;
+            color: white;
+            background-color: #176B87;
+            border: solid black 3px;
+            border-radius: 5px;
+            font-weight: bold;
+}   
+
+img{float: left;}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(0, 0, 0);
+    border-width: 5px;
+    width: 0%;
+}
+.eloi{ color: #bdfbc1;
+    font-size: 100px;
+    font-family: 'Silkscreen', sans-serif;
+    background-color: rgb(12, 55, 62);
+    display: inline;
+    border: solid black 5px;
+    border-radius: 10px;
+}
+
+.foto{
+    border: solid white 5px;
+}
+
+.inicio{
+    background-color: white;
+    color: black;
+    border: solid black 3px;
+    border-radius: 10px;
+}
+
+
+
+
+p{color: white;
+    font-size: 20px;
+}
+
+ul{color: white;
+    font-size: 20px;
+}
+
+ol{color: white;}
+
+.skils {color: rgb(238, 222, 0);
+        font-size: 30px;
+        background-color: black;
+        border: #05f5fd;
+}
+
+.trabalho{  color: rgb(255, 255, 254);
+            font-weight: bold;
+}
+
+.trabalho1{
+    color: white;
+    font-weight: bold;
+    border: solid white;
+    border-radius: 10px;
+}
+
+.l{color: red;}
+.Dudu{color: yellow;}
+
+.contato{color: white;}
+
+.loiro{color: yellow;}
+
+.fds{
+    display: flex;
+    color: rgb(255, 255, 255);
+    font-family: fantasy;
+    font-size: 25px;
+    justify-content: center;
+}
+
+.princess{
+    color: rgb(255, 0, 157);
+    border: black;
+    font-weight: 600;
+    font-family: 'Parisienne', cursive;
+    font-size: 50px;
+    position: relative;
+    left: 5%;
+    
+    
+}   
+
+.hobbies{
+    display: inline;
+    background-color: white;
+    color: black;
+    border: solid black 2px;
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 100px;
+}
+
+.hobbies1{
+    display: inline;
+    background-color: white;
+    color: black;
+    border: solid black 3px;
+}
+
+.contato{
+    display: inline;
+    background-color: white;
+    color: black;
+    border: solid black 3px;
+}
+
+.lista{
+    display: inline-flex;
+    font-size: 20px;
+   align-items: center;
+}
+
+.skills{display: inline;
+        border: solid rgb(0, 0, 0) 3px;
+        border-radius: 5px;   
+        background-color: rgb(255, 255, 255);
+        color: rgb(0, 0, 0);
+        font-size: 25px;
+}
+
+#maneira{display: flex;
+        font-size: 40px;
+        justify-content: center;
+        margin: 0 100px 0 100px;
+        background-color: black;
+        color: white;
+        border: white solid 5px;    
+}
+
+.cursos{display: flex;
+        justify-content: center;
+        background-color: rgb(0, 0, 0);
+        margin: 0 500px 0 500px;
+        border: solid rgb(255, 255, 255) 5px;
+        border-radius: 10px;
+        color: wheat;
+        font-size: 25px;
+}
+
+.conjuntos{
+            display: flex;
+            justify-content: space-around;
+}       
+
+.conjunto{
+            color: rgb(255, 255, 255);
+            font-size: 23px;              
+            font-weight: bold;
+}
+
+.experiencia{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    background-color: #176B87;
+    margin: 0 100px 0 100px;
+    border: solid black;
+    font-size: 25px;
+}
