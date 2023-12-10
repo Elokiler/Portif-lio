@@ -158,3 +158,15 @@ ol{color: white;}
     font-size: 25px;
     box-shadow: 1px 20px 20px 10px white;
 }
+
+.fotos{
+        border: solid rgb(102, 7, 255) 4px;
+        height: 200px;
+        width: 200px;
+        border-radius: 50%;
+}
+
+.fotos1{
+        display: flex;
+        justify-content: space-around;
+}
